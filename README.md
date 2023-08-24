@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Mini AWS security projects](https://github.com/canyakora1/mini-aws-security-projects)
 
-- 🌱 I’m currently learning **Vulnerable word loads and their remediation in AWS, GCP. Azure**
+- 🌱 I’m currently learning **How to automate Event driven security and remediation in the Cloud environment**
 
 - 👨‍💻 All of my projects are available at [https://github.com/canyakora1?tab=repositories](https://github.com/canyakora1?tab=repositories)
 
