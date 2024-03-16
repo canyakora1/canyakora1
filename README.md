@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canyakora1&label=Profile%20views&color=0e75b6&style=flat" alt="canyakora1" /> </p>
 
-- 🔭 I’m currently working on [Mini AWS security projects](https://github.com/canyakora1/mini-aws-security-projects)
+- 🔭 I’m currently working on some CTF's and documenting my progress (https://github.com/canyakora1/TryHackMe-Walkthroughs))
 
 - 🌱 I’m currently learning **How to automate Event driven security and remediation in the Cloud environment**
 
